@@ -241,7 +241,8 @@ body {
   color: var(--button-blue-color);
 }
 
-.concept-title {
+.concept-title,
+.button-title {
   position: absolute;
   white-space: nowrap;
   width: 1px;
