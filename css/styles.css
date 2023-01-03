@@ -201,7 +201,7 @@ button:focus {
   background: #404bbf;
 }
 
-.button-item-all {
+.concept-button-all {
   cursor: pointer;
   font-family: inherit;
   font-weight: 500;
@@ -211,7 +211,7 @@ button:focus {
   color: var(--button-blue-color);
 }
 
-.button-item-website {
+.concept-button-website {
   cursor: pointer;
   font-family: inherit;
   font-weight: 500;
@@ -221,7 +221,7 @@ button:focus {
   color: var(--button-blue-color);
 }
 
-.button-item-app {
+.concept-button-app {
   cursor: pointer;
   font-family: inherit;
   font-weight: 500;
@@ -231,7 +231,7 @@ button:focus {
   color: var(--button-blue-color);
 }
 
-.button-item-design {
+.concept-button-design {
   cursor: pointer;
   font-family: inherit;
   font-weight: 500;
@@ -241,7 +241,7 @@ button:focus {
   color: var(--button-blue-color);
 }
 
-.button-item-marketing {
+.concept-button-marketing {
   cursor: pointer;
   font-family: inherit;
   font-weight: 500;
@@ -251,8 +251,7 @@ button:focus {
   color: var(--button-blue-color);
 }
 
-.concept-title,
-.button-title {
+.concept-title {
   position: absolute;
   white-space: nowrap;
   width: 1px;
