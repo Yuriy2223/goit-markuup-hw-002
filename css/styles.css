@@ -206,6 +206,7 @@ button:focus {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--button-blue-color);
 }
@@ -215,6 +216,7 @@ button:focus {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--button-blue-color);
 }
@@ -224,6 +226,7 @@ button:focus {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--button-blue-color);
 }
@@ -233,6 +236,7 @@ button:focus {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--button-blue-color);
 }
@@ -242,6 +246,7 @@ button:focus {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--button-blue-color);
 }
@@ -260,9 +265,7 @@ button:focus {
   margin: -1px;
 }
 
-.concept-subtitle,
-.health-title,
-.service-title {
+.concept-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -270,9 +273,7 @@ button:focus {
   color: var(--black-color);
 }
 
-.concept-text,
-.health-text,
-.service-tex {
+.concept-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
